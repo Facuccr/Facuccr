@@ -41,6 +41,9 @@
 
 ---
 ## 📈 GITHUB STATS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=dark" alt="Top Lenguajes" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Facuccr&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="Facundo Cristaldo GitHub Stats" />
