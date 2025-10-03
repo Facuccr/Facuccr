@@ -42,7 +42,7 @@
 ---
 ## 📈 GITHUB STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=dark" alt="Top Lenguajes" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facuccr&layout=compact&theme=dark" alt="Top Lenguajes" />
 </p>
 
 <p align="center">
