@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ezquiel  
+# Hi there 👋 I'm Facu  
 
 🎓 Software Development Student (Multiplatform)  
 💻 Passionate about building full stack applications and learning new technologies.  
