@@ -43,7 +43,7 @@
 ## 📈 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="Facundo Cristaldo GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Facuccr&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="Facundo Cristaldo GitHub Stats" />
 </p>
 
 ---
@@ -54,8 +54,5 @@
 
 <hr>
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding gif">
-</p>
-## GITHUB STATS
+
 <hr>
