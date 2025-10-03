@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding gif">
-</p>
 
 # Hi there 👋 I'm Ezquiel  
 
@@ -34,11 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<!-- Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezquiel&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding gif">
 </p>
-
----
-
-✨ Always learning, always building!
